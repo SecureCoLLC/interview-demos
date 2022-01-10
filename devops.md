@@ -1,5 +1,5 @@
 
-# Creaft Demo
+# Demo
 - Automated deployment
 - Basic presentation, powerpoint or freeform covering the task, and present sections below
 
